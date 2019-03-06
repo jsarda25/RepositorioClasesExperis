@@ -1,0 +1,23 @@
+- CRUD --> Create read update delete (como en bbdd);
+- trabajar sobre la actividad de las diferencias
+
+1- agregra dos diferencias mas
+2- felicitar al usuario cuando hay aadivinado todas las diferencias
+3- una vez acertadas todas las diferencias mostrar una imagen nueva con una una diferencia final mas dificil de adivinar
+4- indicar el tiempo en segundos que ha tardado el usuario en adivinar las diferencias
+5- Mostrar un contador de tiempo de cuenta atrás de 30 sec, de forma que si el usuariao no resuelve todas las diferencias antes del tiempo establecido le indicaremos que ha perdido
+6- una  vez adivinadas todas las diferencias pedir al usuario su nombre el cual guardaremos en un array junto al tiempo que ha tardado. Tras ello reiniciaremos el juego listando todos los usuarios y el tiempo que tardaron.
+
+- un jpg está comuesto por un bit de 32 de colores ( muy amplio )
+- un png tiene un bit de 24
+- actividad de la bola
+
+1- permitir mover la pelota hacia la izq y hacia la derecha
+2- indicar al usuario si ha perdido si la bola ha salido por la izquierda de la pantalla o por arriba
+3- sustituir la imagen de la bola por un archivo de imagen png 
+4- agregar dos obstaculos rectangulares de forma que si la bola colisiona con cualquiera de ellos indicaremos al usuario que ha perdido
+5- Mover los obstaculos siguiendo un patrón continuo arriba-abajo izq- der
+6- posicionar de forma aleatoria tanto la meta como los obstaculos
+7- cada vez que se meta la bola en la meta volver a ponerla en su posicion inicial, pedir al usuario que la vuelva a meter en la meta aumentando la velocidad
+8- indicar al usuario las veces que ha coseguido meter la bola en la meta cuando haya perdido
+9- repetir el punto del ejercicio de las diferencias donde pedimos el nombre del usuario guardando no el tiempo que ha tardado si no las veces que ha metido la bola en la meta.

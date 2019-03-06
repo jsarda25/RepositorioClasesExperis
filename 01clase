@@ -1,0 +1,81 @@
+- Un servidor es una máquina que ofrece informacion a un cliente 
+- Un cliente es una persona que a través de un navegador web, que pedirá información a un servidor.
+dirección web = URL
+- La ? n la url sirve para buscar información extra, q = question --> https://www.google.com/search?q=bar%C3%A7a&oq=bar%C3%A7a&aqs=chrome..69i57j69i61j0l4.1041j0j7&sourceid=chrome&ie=UTF-8
+- Tomcat = aplicación para servidores java siempre en ejecución.
+- Index.html --> portadas de html (archivo de base)
+- Debugear = depurar
+- Class = estilo --> algo que modifica..?
+- HTML es el código que envía el servidor al navegador del cliente
+- IDE Eclipse:  Integrated Developement Environment --> Entorno de desarrollo (programa para crear programas)
+- Desde el eclipse crearemos código html para crear nuestra primera web
+- JavaResources es donde está todo el código
+- JavaScriptResources es donde se encuentran los recursos (librería)
+- El lenguaje lo interpreta directamente el navegador (Lenguajes interpretados)
+- Carpeta Bild 
+- Webcontent es donde está todo el contenido directo de nuestra aplicación web
+- Web inf--> archivos de configuración ( Solo para la parte de java)
+- Meta inf--> añadir info adicional
+- html --> ml --> markup language -> lenguaje de etiquetas
+- Head---> loq ue no se va a ver
+--------------------------------------------------------------------------------------------------------------
+ETIQUETAS MAS COMUNES HTML																					 +
+--------------------------------------------------------------------------------------------------------------
+ <div></div> para crear una separación, por defecto se pone el contenido en una nueva línea
+ <a href=></a> para crear un enlace, que redirecciona al usuario a donde está indicada la href
+ <p></p> para crear párrafos 
+ <br/> salto de línea
+ - heading --> cabeceras por tamaño <h1>texto muy grande</h1> <h6> texto muy pequeño</h6>
+ - tablas > buenas para hacer listados 
+ <table>
+ <tr> table row ( fila)
+ <td> celda
+ej:
+
+	<table>
+<tr><td>primera celda</td><td>segunda celda</td></tr>
+<tr><td>primera celda</td><td>segunda celda</td></tr>
+
+	</table>
+<img src ="ruta de la imagen"/> meter imágenes
+- listas:
+<ul></ul> lista desordenada ( Unordered list )
+<li></li> linea de la lista (list item)
+
+ej: 
+<ul>
+<li>Café</li>
+<li>Té</li>
+<li>Leche</li>
+</ul>
+
+- formularios
+<form></form>
+
+ej:
+
+<form>
+
+nombre: <input type= "text" name="campoNombre"/><br/>
+email: <input type = "text" name= "campoemail"/><br/>
+
+<input type = "submit" value = "REGISTRARME"/> <!-- botón--!>
+</form>
+
+- Es mejor no utilizar los breaklines. Mejor tirar de <div> y <p>
+
+--------------------------------------------------------------------------------------------------------------
+ETIQUETAS MAS COMUNES CSS																					 +
+--------------------------------------------------------------------------------------------------------------
+- CSS --> hoja de estilos en cascada
+- Para estilos formatos colores decoracion y diseñño se usa css
+- hay tres formas de usar css:
+	Estilos incrustados--> 2em significa 2 veces el tamaño estándar, sobreescribe el estilo por defecto.
+	Definir los estilos en el head, definiendo clases o IDs (no recomendado pq el id tiene que ser único)
+	Definir los estilos en archivos a parte (recomendada). EJ: <link rel="stylesheet" type = "text/css" href="EstilosCSS.css"/>
+- float --> hacia donde va a ir un elemento flotante
+- list-style-type sirve para elegir (o quitar) el formato de la lista (los puntos por ejemplo)
+- overflow -> sirve para definir como se comporta algo cuando algo sobrepase el tamaño.
+- Hover: es el "sombreado de las opciones" al pasar el cursor por encima
+
+

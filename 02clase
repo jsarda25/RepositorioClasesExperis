@@ -1,0 +1,19 @@
+- Javascript: es código que se ejecuta en el navegador del cliente.
+- Para este curso es crucial diferenciar entre frontend y backend.
+- Tecnologías de front-end --> html css javascript, con lo que interactúa el usuario desde su navegador.
+- Back-end son todas las tecnolgías ejecutadas dentro del servidor que gestionan servicios, accesos a bbdd, etc. (pe java).
+- El símbolo "=" se utiliza para asignar valores
+- Los textos en javascript van entre comillas
+---------------------------------------------------------------------------------------------------------------------------------
+Pautas primer entregable--> Práctica 1 : creación de un sito web
+---------------------------------------------------------------------------------------------------------------------------------
+
+- Mandar a aressancho@mail.com con el enlace al repositorio de github con el contenido del sitio web
+- Crear un sitio web de la temática a elegir
+	1º Crear una cuenta de github y subir un proyecto.
+	2º Analizar al menos 5 web sites de la temática elegida.
+	3º Guardar los enlaces de los sites en un archivo que deberá ser incluido en el repositorio de github(enlaces.txt)
+	4º Crear un archivo de imagen con la idea de la portada y las web del sitio web a crear. Incorporar dicho archivo al repositorio 
+	(esquema.jpg).
+	5º Crear un nuevo proyecto de eclipse e implementar, trabajar y tratar todo el código necesario para conseguir las las ideas expuestas en el punto 2º.
+	6º) Incorporar las modificaciones y los elementos que se crean covenientes no previstos en el punto 4º

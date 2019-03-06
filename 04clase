@@ -1,0 +1,15 @@
+- Js es un leguaje orientado a prototipado
+- Se pueden crear objetos vacíos e irlos rellenando
+- el "this" sirve para hacer referencia en un caso en concreto al objeto que se va a crear usando una "clase"
+- practica ahorcado: sobre el ejemplo mostrado
+
+
+1- no diferenciar entre mayusculas y minúsculas a la hora de desvelar letra
+2- dar un mensaje de error cuando el usuario inserta mas de una letra al desvelar letra
+3- dar al ususario una punt inicial de 100 ptos, dicha puntuacion será mostrada todo el tiempo si el usuario falla en adivinar la frase le quitaremos 50 ptos, si acierta letra 5 ptos y si falla 10
+4- diferenciar entre desvelar consonantes o vocales. El desvelar una vocal son el doble de puntos
+5- Una vez vez resuelta la frase inicial, pedir al usuario que desvele una frase distinta, así hasta un total de 3 frases
+6- Permitir al usuario la opcion de poder insertar la frase a desvelar que quiera
+7- una vez terminada la partida, indicar el usuario el tiempo que ha tardado en desvelar la o las frases
+
+- La funcion e en jquery nos da info del evento

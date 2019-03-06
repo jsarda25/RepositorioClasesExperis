@@ -1,0 +1,17 @@
+- en js funcion onclick--> realiza funciones al darle click al elemento
+- el js es mejor ponerlo al final, en el body, aunque nunca va a estar incrustado, suele ir en un archivo externo
+- w3schools para documentación en js
+- para invocar un codigo se crea una función--> alert();
+- las frases se meten entre comillas dentro del paréntesis
+- para meter un archivo externo de js se pone de la siguiente manera "<script type="text/javascript" src="externo.js"></script>"
+- Las funciones solo se ejecutan cuandos e invocan o salten por enventos
+- Las variables son info variable util para elementos dinámicos. No tienen tipo de dato. (Var)
+- NaN = not a number
+- Un objero en js es una variable que contiene otras varioables y/o funciones
+- Cuando se cierra una funcion no se pone ";", en un objeto si
+- En una funcion siempre se tiene que poner el doble paréntesis
+- Array = conjunto de variables u objetos
+- En los arrays se suelen utilizar corchetes "[]"
+- La funcion push sirve para meter cosas en el array
+- un if ejecuta un codigo u otro segun la condición
+- 
